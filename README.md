@@ -7,12 +7,12 @@
 - HTML/CSS, JavaScript, TypeScript, PHP, Python, Ruby, Solidity
 - React(Redux, Mobx, Context), Next.js, Blitz.js, Gatsby
 - Vue(Vuex), Quasar, Vuetify, Nuxt.js
-- Angular, RxJs
+- Angular, RxJs, Laravel
 - GraphQL, REST API
 - Node.js, Express.js, Nest.js
 - Laravel, Django(DRF), Ruby on Rails
-- MySQL, PostgreSQL, SQLite, SQL Server
-- MongoDB
+- MySQL, PostgreSQL, SQLite, SQL Server, MongoDB
 - Nginx, Redis, Memcache
+- Medusa.js
 
 👯 I am looking to collaborate on web applications, decentralized applications, mainly open source projects.
