@@ -1,4 +1,4 @@
-# Full Stack Web Developer
+# Senior Full Stack Developer
 
 🔭 A full stack web developer with 7 years experience in web development using latest technologies, languages, frameworks and libraries in different areas, including frontend, backend, full stack and blockchain.
 
