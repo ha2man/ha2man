@@ -9,6 +9,11 @@
 #### Potentially put emphasis on team collaboration and cooperation.
 #### Continuously keep up to date with modern technologies frameworks and standards.
 
+## Contact
+
+#### Skype : live:.cid.fa72b2681bd85214
+#### Telegram : https://t.me/luckyworld73
+
 ## My GitHub Stats 📊
 <p align="center">
 	<a href="https://github.com/ha2man">
